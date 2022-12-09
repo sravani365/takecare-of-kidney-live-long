@@ -1,0 +1,35 @@
+#header1-0 H1 {
+  font-size: 100px;
+}
+#header3-1 H3 {
+  font-size: 30px;
+}
+#msg-box2-1 .mbr-header .mbr-header__text {
+  color: #252525;
+  text-align: right;
+}
+#msg-box2-1 .mbr-article {
+  color: #252525;
+}
+#features1-9 .mbr-section__col .mbr-header__text {
+  color: #b8312f;
+  text-align: center;
+}
+#slider-b H1 {
+  color: #000000;
+}
+#ext_menu-c .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-c.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-c .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#contacts1-e B {
+  font-size: 23px;
+}
