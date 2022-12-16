@@ -12,7 +12,7 @@ Github Project Link:https://sravani365.github.io/takecare-of-kidney-live-long/
 
 Azure project LInk:https://calm-sky-065596010.2.azurestaticapps.net
 
-Azure health bot link:https://eastus.healthbot.microsoft.com/account/kidneycarebot-rzqtabr
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -55,6 +55,11 @@ Best food for kidneys:
 
 ![best food for kidneys](https://user-images.githubusercontent.com/118789682/206631471-aab45283-b060-43aa-bfd3-62233b829db7.png)
 
+
+Kidney Diseases Page:
+
+![kidney diseases](https://user-images.githubusercontent.com/118789682/206631485-577b36e9-e21a-4019-80fd-9ad2e545eeb1.png)
+
 Azure Health bot functionality Page:
 
 ![bot funcationality](https://user-images.githubusercontent.com/118789682/206631475-0b63dbce-530a-466b-b47d-183cd6466782.png)
@@ -64,11 +69,26 @@ Azure health Kidney BOt:
 
 ![kidney care bot](https://user-images.githubusercontent.com/118789682/206631481-0f2759d0-a74f-4b8c-aad8-45c496199b59.png)
 
-Kidney Diseases Page:
 
-![kidney diseases](https://user-images.githubusercontent.com/118789682/206631485-577b36e9-e21a-4019-80fd-9ad2e545eeb1.png)
+![azure health bot screen shot1](https://user-images.githubusercontent.com/118789682/208072280-1690ebb2-0070-4ab2-b3e8-d6256a20963a.jpg)
 
 
+![azure health bot screen shot2](https://user-images.githubusercontent.com/118789682/208072289-ee81e9ee-fd21-480a-a8b3-fb69dae04903.jpg)
+
+![azure health bot screen shot 3](https://user-images.githubusercontent.com/118789682/208072317-6c6b28f5-644c-4723-a55c-f6c573ee6f77.jpg)
+
+![azure health bot screen shot4](https://user-images.githubusercontent.com/118789682/208072297-4a35bf49-5339-49d8-ad7e-9c48065cd3a1.jpg)
+
+![azure health bot screenshot 5](https://user-images.githubusercontent.com/118789682/208072307-c0ac02cd-5650-45fd-ace0-e704c60916d2.jpg)
+
+![azure health bot screen shot 6](https://user-images.githubusercontent.com/118789682/208072268-7c4e340a-377c-4af9-9af2-7b99e4822968.png)
+
+![azure health bot screen shot7](https://user-images.githubusercontent.com/118789682/208072301-fceb1efe-aa90-418f-a846-6b2372be4de8.png)
+
+
+![azure health bot screenshot4](https://user-images.githubusercontent.com/118789682/208072308-5d5db25b-d22a-4041-9680-d42cab3dc564.jpg)
+
+![bot screen shot 6](https://user-images.githubusercontent.com/118789682/208072315-181a7d73-8344-4b1f-aeca-134147e11739.jpg)
 
 
 
