@@ -91,6 +91,11 @@ Azure health Kidney BOt:
 ![bot screen shot 6](https://user-images.githubusercontent.com/118789682/208072315-181a7d73-8344-4b1f-aeca-134147e11739.jpg)
 
 
+## Scenario management
+
+
+![Screenshot_20221227_134145](https://user-images.githubusercontent.com/118789682/209634636-bb836099-1259-4009-80cd-b2dd52429a2e.png)
+
 
 ## Static web apps
 
@@ -101,3 +106,20 @@ Azure health Kidney BOt:
 ## Azure health bot
 
 ![Screenshot_20221227_133428](https://user-images.githubusercontent.com/118789682/209633940-25490201-0f9d-4b95-90a8-261dcf4569d1.png)
+
+
+## Test in web chat 1:
+
+![Screenshot_20221227_134047](https://user-images.githubusercontent.com/118789682/209634718-64adfc40-3d0a-4694-b0a1-8ed1f682cdee.png)
+
+
+## Test in web chat2:
+
+
+![Screenshot_20221227_134059](https://user-images.githubusercontent.com/118789682/209634882-3a656d78-d8b1-40f0-bcb1-b02d69043aef.png)
+
+
+## Test in webchat3:
+
+![Screenshot_20221227_134112](https://user-images.githubusercontent.com/118789682/209635107-2b1aa298-ff8f-4aaf-803d-d1fe30aaa7b8.png)
+
