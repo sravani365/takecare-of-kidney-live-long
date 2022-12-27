@@ -92,5 +92,12 @@ Azure health Kidney BOt:
 
 
 
+## Static web apps
 
 
+![Screenshot_20221227_133443](https://user-images.githubusercontent.com/118789682/209633852-b9c11924-20a0-4f15-8f17-76587689ccd3.png)
+
+
+## Azure health bot
+
+![Screenshot_20221227_133428](https://user-images.githubusercontent.com/118789682/209633940-25490201-0f9d-4b95-90a8-261dcf4569d1.png)
