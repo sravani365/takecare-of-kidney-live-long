@@ -12,6 +12,8 @@ Github Project Link:https://sravani365.github.io/takecare-of-kidney-live-long/
 
 Azure project LInk:https://calm-sky-065596010.2.azurestaticapps.net
 
+Vedio Demo link:
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
